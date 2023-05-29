@@ -4,11 +4,11 @@
 
 #include <FirebaseESP32.h>
 
-const char* ssid = "ROCHI";
-const char* password = "17268681";
+const char* ssid = "IDSS";
+const char* password = "password";
 
-const char* firebaseHost = "https://cerraduraelectronica-fae61-default-rtdb.firebaseio.com/";
-const char* firebaseAuth = "WurEOHP01KKH4XHJTDhl6EBooBQuM3t7sBrIepfZ";
+const char* firebaseHost = "https://xxxxxxxxxxxxxxxxxxxxxxxxxxx.firebaseio.com/";
+const char* firebaseAuth = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 Servo myservo; 
 int pos = 0;
